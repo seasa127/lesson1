@@ -297,6 +297,7 @@
 				7B2DE8C21E520C1000518D38 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
